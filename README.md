@@ -35,7 +35,7 @@ I specialize in event-driven architecture, containerized deployments, and turnin
 - 🔭 Currently building scalable microservices and cloud-native SaaS platforms
 - 🌱 Deep-diving into advanced distributed systems and infrastructure automation
 - 💬 Ask me about Python, System Design, Cloud Architecture, or Message Queues
-- 📍 West Bengal, India · Available for remote collaboration
+- 📍 India · Available for remote collaboration
 
 ---
 
