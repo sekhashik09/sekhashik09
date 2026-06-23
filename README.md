@@ -19,7 +19,7 @@
 ╚══════════════════════════════════════════════════════╝
 ```
 
-# Hey, I'm **[Your Name]** 👨‍💻
+# Hey, I'm **Ashik** 👨‍💻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Cloud+Architect+%7C+AWS+%2F+GCP;Building+scalable+systems+at+scale;Code+%E2%86%92+Deploy+%E2%86%92+Repeat)](https://git.io/typing-svg)
 
