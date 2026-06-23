@@ -28,7 +28,7 @@
 
 ## About
 
-I'm a Full Stack Engineer and Cloud Architect based in West Bengal, India, focused on building production-grade systems that scale. My work spans the entire stack — from crafting responsive frontends to designing distributed backend services and cloud infrastructure.
+I'm a Full Stack Engineer and Cloud Architect based in India, focused on building production-grade systems that scale. My work spans the entire stack — from crafting responsive frontends to designing distributed backend services and cloud infrastructure.
 
 I specialize in event-driven architecture, containerized deployments, and turning complex infrastructure problems into clean, maintainable solutions.
 
